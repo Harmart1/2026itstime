@@ -1,0 +1,22 @@
+{
+  "name": "Cynthia McCutcheon \u2014 Ward 2",
+  "short_name": "Cynthia Ward 2",
+  "description": "Cynthia McCutcheon for Ward 2, Sault Ste. Marie City Council.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FAF2E4",
+  "theme_color": "#263145",
+  "icons": [
+    {
+      "src": "assets/icons/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
