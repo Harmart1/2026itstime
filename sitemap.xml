@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://2026itstime.com/</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://2026itstime.com/assets/images/cynthia-hero.jpg</image:loc>
+      <image:title>Cynthia McCutcheon — Ward 2 candidate in Sault Ste. Marie</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://2026itstime.com/assets/images/campaign-lawn-sign.jpg</image:loc>
+      <image:title>Cynthia McCutcheon Ward 2 — 2026 It’s Time campaign sign</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://2026itstime.com/assets/images/og-share.jpg</image:loc>
+      <image:title>Cynthia McCutcheon for Ward 2 — 2026 It’s Time</image:title>
+    </image:image>
+  </url>
+</urlset>
